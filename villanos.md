@@ -3,4 +3,4 @@
 * Malefica
 * Joker
 *Cruela
-* Capitán America
+*Capitán America malo
